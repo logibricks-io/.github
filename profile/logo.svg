@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- L 形砖块（深色） -->
+  <rect x="10" y="10" width="22" height="22" fill="#18181B" rx="3"/>
+  <rect x="10" y="39" width="22" height="22" fill="#18181B" rx="3"/>
+  <rect x="10" y="68" width="22" height="22" fill="#18181B" rx="3"/>
+  <rect x="39" y="68" width="22" height="22" fill="#18181B" rx="3"/>
+  <rect x="68" y="68" width="22" height="22" fill="#18181B" rx="3"/>
+  <!-- .AI 点（焦糖橙） -->
+  <circle cx="79" cy="21" r="10" fill="#D97757"/>
+</svg>
